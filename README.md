@@ -1,4 +1,5 @@
-# Multi-Class Prediction of Obesity Risk (EDA, FE, ML)                                                                                                                        [![CodeFactor](https://www.codefactor.io/repository/github/hgy-88/ml-models-trees-and-boosters/badge)](https://www.codefactor.io/repository/github/hgy-88/ml-models-trees-and-boosters)
+# Multi-Class Prediction of Obesity Risk (EDA, FE, ML)                                                                                                                        
+[![CodeFactor](https://www.codefactor.io/repository/github/hgy-88/ml-models-trees-and-boosters/badge)](https://www.codefactor.io/repository/github/hgy-88/ml-models-trees-and-boosters)
 End-to-end approach for predicting multi-outcome variable
 
 # Multi-Class Prediction of Obesity Risk
@@ -7,6 +8,9 @@ End-to-end approach for predicting multi-outcome variable
 
 ## Description
 This project focuses on the multi-class prediction of obesity risk in individuals, a factor closely related to cardiovascular diseases. Utilizing machine learning techniques, the analysis is performed on a dataset generated from a deep learning model trained on the Obesity or CVD risk dataset. This project aims to identify and analyze various contributing factors to predict obesity risk accurately.
+
+### Insights and Assumptions
+The dataset offers insights into factors influencing obesity, including family history, dietary habits, physical activity, hydration, and lifestyle choices like smoking and alcohol consumption. It acknowledges assumptions regarding the accuracy of self-reported data, the static nature of data snapshots, generalization to broader populations, and the distinction between correlation and causation
 
 ## Features
 Comprehensive Data Analysis: Includes EDA, feature engineering (FE), and model evaluation using advanced algorithms.
