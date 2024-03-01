@@ -1,10 +1,15 @@
-# urban-enigma-ml-preda
+# Multi-Class Prediction of Obesity Risk (EDA, FE, ML)
 End-to-end approach for predicting multi-outcome variable
 
 # Multi-Class Prediction of Obesity Risk
 
 ## Description
 This project focuses on the multi-class prediction of obesity risk in individuals, a factor closely related to cardiovascular diseases. Utilizing machine learning techniques, the analysis is performed on a dataset generated from a deep learning model trained on the Obesity or CVD risk dataset. This project aims to identify and analyze various contributing factors to predict obesity risk accurately.
+
+## Features
+Kaggle Challenge Integration: Participation details and data sourced from a specific Kaggle competition.
+Comprehensive Data Analysis: Includes EDA, feature engineering (FE), and model evaluation using advanced algorithms.
+Machine Learning Models: Utilizes RandomForest, XGBoost, LightGBM, and more, with hyperparameter tuning via Optuna.
 
 ## Dataset
 The dataset includes training and test data, closely mimicking the feature distributions of the original Obesity or CVD risk dataset but generated through deep learning techniques to ensure diversity and complexity in data analysis.
