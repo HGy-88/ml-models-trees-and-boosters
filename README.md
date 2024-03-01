@@ -1,5 +1,5 @@
 # Multi-Class Prediction of Obesity Risk (EDA, FE, ML)                                                                                                                        
-[![CodeFactor](https://www.codefactor.io/repository/github/herczeggyorgy/ml-models-trees-and-boosters/badge)](https://www.codefactor.io/repository/github/hgy-88/ml-models-trees-and-boosters)
+[![CodeFactor](https://www.codefactor.io/repository/github/herczeggyorgy/ml-models-trees-and-boosters/badge)](https://www.codefactor.io/repository/github/herczeggyorgy/ml-models-trees-and-boosters)
 End-to-end approach for predicting multi-outcome variable
 
 # Multi-Class Prediction of Obesity Risk
