@@ -10,7 +10,7 @@ This project focuses on the multi-class prediction of obesity risk in individual
 
 ## Features
 Comprehensive Data Analysis: Includes EDA, feature engineering (FE), and model evaluation using advanced algorithms.
-Machine Learning Models: Utilizes RandomForest, XGBoost, LightGBM, and more, with hyperparameter tuning via Optuna.
+Machine Learning Models: Utilizes RandomForest, XGBoost, LightGBM and more, with hyperparameter tuning via Optuna. Final tuned ensembled model trained on Kaggle TPU-s.
 
 ## Dataset
 The dataset includes training and test data, closely mimicking the feature distributions of the original Obesity or CVD risk dataset but generated through deep learning techniques to ensure diversity and complexity in data analysis.
