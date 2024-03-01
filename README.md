@@ -3,6 +3,8 @@ End-to-end approach for predicting multi-outcome variable
 
 # Multi-Class Prediction of Obesity Risk
 
+## Notebook: https://github.com/HGy-88/ml-models-trees-and-boosters/blob/9b37b4cefd1cc23fc3d4bd91ca13d4212bdcf9bf/multi-class-prediction-obesity-eda-fe-ml.ipynb
+
 ## Description
 This project focuses on the multi-class prediction of obesity risk in individuals, a factor closely related to cardiovascular diseases. Utilizing machine learning techniques, the analysis is performed on a dataset generated from a deep learning model trained on the Obesity or CVD risk dataset. This project aims to identify and analyze various contributing factors to predict obesity risk accurately.
 
